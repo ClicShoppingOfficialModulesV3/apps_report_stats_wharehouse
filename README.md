@@ -2,17 +2,17 @@
 
 This apps allow you to display the product in function your wharehouse and orders status
 
-Important Note :
-
-Copy the apps_report_stats_wharehouse.json into ClicShopping/Work/Cache/Github
-
+Language : english - french
 licence  : GPL 2 - MIT
 
 Install :
+Copy all directories inside Shop except ModuleInfosJson
+Copy the apps_report_stats_wharehouse.json into ClicShopping/Work/Cache/Github
 
+install 
 http://monsite/myAdmin/index.php?A&Report\StatsProductsWharehouse
+Activate the module in Report / Product Management
 
-Activate the module in Report
 
 See Marketplace for all informations
 Marketplace link : https://www.clicshopping.org/forum/files/file/28-apps_report_stats_wharehouse/
