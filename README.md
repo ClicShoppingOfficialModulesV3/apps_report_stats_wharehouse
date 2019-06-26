@@ -10,8 +10,11 @@ Copy all directories inside Shop except ModuleInfosJson
 Copy the apps_report_stats_wharehouse.json into ClicShopping/Work/Cache/Github
 
 install 
-http://monsite/myAdmin/index.php?A&Report\StatsProductsWharehouse
-Activate the module in Report / Product Management
+
+
+http://monsite/myAdmin/index.php?A&Catalog\ProductsWarehouse
+Activate the module 
+Access :  Report / Products Management
 
 
 See Marketplace for all informations
