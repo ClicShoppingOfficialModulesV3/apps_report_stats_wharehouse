@@ -1,0 +1,6 @@
+text_products_time_replenishment = Resupplying in days:
+text_products_warehouse = Warehouse name / Case
+text_products_warehouse_row = Warehouse row:
+text_products_warehouse_level_location = Location level / Rack
+text_products_warehouse_packaging = Packaging type:
+text_warehouse = Storage

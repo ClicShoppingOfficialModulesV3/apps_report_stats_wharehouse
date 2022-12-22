@@ -1,0 +1,6 @@
+text_products_time_replenishment = Délais de réapprovisionnement en jour :
+text_products_warehouse = Nom de l'entrepot / Rayon
+text_products_warehouse_row = Rangée :
+text_products_warehouse_level_location = Niveau de localisation / case:
+text_products_warehouse_packaging = Type de packaging :
+text_warehouse = Entreprosage

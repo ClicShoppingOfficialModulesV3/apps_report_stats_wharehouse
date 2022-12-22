@@ -1,0 +1,64 @@
+heading_title = Warehouse
+module_pw_title = Warehouse
+module_pw_short_title = Warehouse
+
+text_products_warehouse = Warehouse
+text_configure =  configure App Module
+
+text_intro = This app allow you to include a Warehouse. <br /><br />
+- Click on Configure to access / install or uninstall the app.<br />
+- The App is located in Report<br />
+
+module_pw_introduction = The install process create the database settings for this module and the access menu
+
+
+button_back = Back
+button_install_title = Install
+button_configure = Configure
+button_save = Save
+button_dialog_uninstall =  Uninstall
+button_uninstall =  Uninstall
+button_delete = Delete
+button_cancel = Cancel
+button_products_warehouse = Warehouse
+button_reset = Reset
+
+dialog_uninstall_title = Uninstall
+dialog_uninstall_body = Do you want to install this App ?
+dialog_uninstall_title = Uninstall Module?
+dialog_uninstall_body = Are you sure you want to uninstall this module?
+
+alert_module_install_success = Module has been successfully installed.
+alert_module_uninstall_success = Module has been successfully uninstalled.
+alert_cfg_saved_success = Configuration parameters have been successfully saved.
+
+text_result_page = Page {{listing_from}} of {{listing_total}}
+text_display_number_of_link = Display <strong>{{listing_from}}</strong> to <strong>{{listing_to}}</strong> (on <strong>{{listing_total}}</strong>)
+
+table_heading_model = product model
+table_heading_qty_left = Stock quantity
+table_heading_customers_orders_quantity = Order quantity
+table_heading_action = Action
+table_heading_warehouse_time_replenishment = Resupplying
+table_heading_warehouse = Warehouse name
+table_heading_warehouse_row = Warehouse row
+table_heading_warehouse_level = Location level
+table_heading_customers_id = No customers
+table_heading_customers_name = Customers name
+table_heading_customers_phone = phones
+table_heading_order_id = Order id
+table_heading_products_name = Product name
+table_heading_packaging = Packaging
+
+title_status = Order status
+text_all_orders = All orders
+text_action = Action
+
+text_products_packaging_new = New product
+text_products_packaging_repackaged = Product repackaged
+text_products_packaging_used = Product Used
+
+icon_edit = Product
+icon_edit_order = Order
+icon_edit_customer = Customer
+text_preview = Preview
